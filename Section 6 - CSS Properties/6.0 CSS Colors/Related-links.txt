@@ -1,0 +1,5 @@
+https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
+
+
+RGB color Sliders:
+https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
